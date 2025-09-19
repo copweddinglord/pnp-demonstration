@@ -1,7 +1,7 @@
 # pnp-demonstration
 Interactive demonstration of P=NP solution via dimensional compression
 Live demo here: https://copweddinglord.github.io/pnp-demonstration/
-Proofs and stuff below:
+Proofs and stuff:
 BEFORE YOU READ: Addressing Common
  Misconceptions About the XYZT System
  Introduction
