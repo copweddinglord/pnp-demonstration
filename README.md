@@ -2,27 +2,6 @@
 Demo 1: https://copweddinglord.github.io/hardsolver/
 Demo 2: https://copweddinglord.github.io/pnp-demonstration
 Interactive demonstration of P=NP solution via dimensional compression.  
-##**Live Demo 1**: 
-P=NP Demonstration: Dimensional Compression Solver
-Interactive Proof of Polynomial-Time Solutions for NP-Complete Problems
-This repository contains an interactive demonstration of our dimensional compression approach to solving NP-complete problems in polynomial time. Using the Traveling Salesman Problem (TSP) as an example, we show how our algorithm achieves O(n^1.3) performance compared to the traditional O(2^n) approach.
-
-What is the Traveling Salesman Problem?
-The Traveling Salesman Problem asks: Given a set of cities and the distances between them, what is the shortest possible route that visits each city exactly once and returns to the starting city? This is a classic NP-complete problem with traditional algorithms requiring exponential time (O(2^n)).  
-
-##**Live Demo 2**: 
-Subset Sum Solver: P=NP Demonstration
-Interactive Proof of Polynomial-Time Solutions for NP-Complete Problems
-This repository contains an interactive demonstration of our dimensional compression approach to solving NP-complete problems in polynomial time. Using the Subset Sum problem as an example, we show how our algorithm achieves O(n^1.3) performance compared to the traditional O(2^n) approach.
-
-What is Subset Sum?
-The Subset Sum problem asks: Given a set of integers and a target sum, is there a subset of those integers that adds up exactly to the target? This is a well-known NP-complete problem with traditional algorithms requiring exponential time (O(2^n)).
-
-Theoretical Implications
-If P=NP, as our approach suggests, it would represent one of the most significant breakthroughs in theoretical computer science. The implications span cryptography, optimization, machine learning, and beyond.
-
-Try It Yourself
-The most compelling evidence is direct experience. Create your own large instances of the Subset Sum problem and watch as our algorithm solves them instantly while traditional approaches would take longer than the age of the universe.
 
 ## Proofs and Documentation
 
