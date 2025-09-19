@@ -1,8 +1,8 @@
 # pnp-demonstration
 
 Interactive demonstration of P=NP solution via dimensional compression.
-**Live Demo 1**: https://copweddinglord.github.io/hardsolver/
-**Live Demo 2**: https://copweddinglord.github.io/pnp-demonstration/
+##**Live Demo 1**: https://copweddinglord.github.io/hardsolver/
+##**Live Demo 2**: https://copweddinglord.github.io/pnp-demonstration/
 Description for demo one:
 Subset Sum Solver: P=NP Demonstration
 Interactive Proof of Polynomial-Time Solutions for NP-Complete Problems
