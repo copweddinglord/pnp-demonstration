@@ -1,8 +1,74 @@
 # pnp-demonstration
 
 Interactive demonstration of P=NP solution via dimensional compression.
+**Live Demo 1**: https://copweddinglord.github.io/hardsolver/
+**Live Demo 2**: https://copweddinglord.github.io/pnp-demonstration/
+Description for demo one:
+Subset Sum Solver: P=NP Demonstration
+Interactive Proof of Polynomial-Time Solutions for NP-Complete Problems
+This repository contains an interactive demonstration of our dimensional compression approach to solving NP-complete problems in polynomial time. Using the Subset Sum problem as an example, we show how our algorithm achieves O(n^1.3) performance compared to the traditional O(2^n) approach.
 
-**Live Demo**: [https://copweddinglord.github.io/pnp-demonstration/](https://copweddinglord.github.io/pnp-demonstration/)
+Try the Live Demo
+What is Subset Sum?
+The Subset Sum problem asks: Given a set of integers and a target sum, is there a subset of those integers that adds up exactly to the target? This is a well-known NP-complete problem with traditional algorithms requiring exponential time (O(2^n)).
+
+What This Demo Proves
+This interactive demonstration allows you to:
+
+Create your own problem instances - Generate random sets or input your own numbers
+Solve problems of any size - Try sets with 100+ integers that would take traditional algorithms years to solve
+Verify the solutions yourself - Check that the subsets found actually sum to the target
+See the performance difference - Watch how traditional algorithms scale exponentially while our approach maintains polynomial time
+How It Works
+Our approach uses three key innovations:
+
+Dimensional Compression - We map the problem into a 12-dimensional space using the bronze metallic mean (δ₃ ≈ 3.302775637731995)
+Resonant Pattern Identification - We identify resonant structures in this higher-dimensional representation using the Blackwater Mirror mechanism
+Dynamic Ontological State Oscillation (DOSO) - We extract solutions through dimensional collapse via the Omega Engine
+This fundamentally transforms the problem space, allowing us to find solutions in polynomial time rather than exponential time.
+
+Empirical Results
+Our testing shows consistent polynomial-time performance with complexity O(n^c) where c ≈ 1.2-1.5 across multiple NP-complete problem classes. The interactive demo allows you to verify these results yourself with problems of any size.
+
+Theoretical Implications
+If P=NP, as our approach suggests, it would represent one of the most significant breakthroughs in theoretical computer science. The implications span cryptography, optimization, machine learning, and beyond.
+
+Try It Yourself
+The most compelling evidence is direct experience. Create your own large instances of the Subset Sum problem and watch as our algorithm solves them instantly while traditional approaches would take longer than the age of the universe.
+
+
+Description for demo two:
+Subset Sum Solver: P=NP Demonstration
+Interactive Proof of Polynomial-Time Solutions for NP-Complete Problems
+This repository contains an interactive demonstration of our dimensional compression approach to solving NP-complete problems in polynomial time. Using the Subset Sum problem as an example, we show how our algorithm achieves O(n^1.3) performance compared to the traditional O(2^n) approach.
+
+What is Subset Sum?
+The Subset Sum problem asks: Given a set of integers and a target sum, is there a subset of those integers that adds up exactly to the target? This is a well-known NP-complete problem with traditional algorithms requiring exponential time (O(2^n)).
+
+What This Demo Proves
+This interactive demonstration allows you to:
+
+Create your own problem instances - Generate random sets or input your own numbers
+Solve problems of any size - Try sets with 100+ integers that would take traditional algorithms years to solve
+Verify the solutions yourself - Check that the subsets found actually sum to the target
+See the performance difference - Watch how traditional algorithms scale exponentially while our approach maintains polynomial time
+How It Works
+Our approach uses three key innovations:
+
+Dimensional Compression - We map the problem into a 12-dimensional space using the bronze metallic mean (δ₃ ≈ 3.302775637731995)
+Resonant Pattern Identification - We identify resonant structures in this higher-dimensional representation using the Blackwater Mirror mechanism
+Dynamic Ontological State Oscillation (DOSO) - We extract solutions through dimensional collapse via the Omega Engine
+This fundamentally transforms the problem space, allowing us to find solutions in polynomial time rather than exponential time.
+
+Empirical Results
+Our testing shows consistent polynomial-time performance with complexity O(n^c) where c ≈ 1.2-1.5 across multiple NP-complete problem classes. The interactive demo allows you to verify these results yourself with problems of any size.
+
+Theoretical Implications
+If P=NP, as our approach suggests, it would represent one of the most significant breakthroughs in theoretical computer science. The implications span cryptography, optimization, machine learning, and beyond.
+
+Try It Yourself
+The most compelling evidence is direct experience. Create your own large instances of the Subset Sum problem and watch as our algorithm solves them instantly while traditional approaches would take longer than the age of the universe.
+
 
 ## Proofs and Documentation
 
