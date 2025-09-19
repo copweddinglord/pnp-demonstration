@@ -1,6 +1,6 @@
 # pnp-demonstration
-Demo 1: https://copweddinglord.github.io/pnp-demonstration/  
-Demo 2: https://copweddinglord.github.io/hardsolver/  
+Demo 1: https://copweddinglord.github.io/hardsolver/
+Demo 2: https://copweddinglord.github.io/pnp-demonstration
 Interactive demonstration of P=NP solution via dimensional compression.  
 ##**Live Demo 1**: 
 P=NP Demonstration: Dimensional Compression Solver
